@@ -1,0 +1,25 @@
+{
+    "name": "wheesnoza/ip-validator",
+    "description": "A simple ip validator",
+    "type": "package",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "ip",
+        "validator"
+    ],
+    "authors": [
+        {
+            "name": "Watanabe Hiroshi",
+            "email": "h.watanabe2529@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wheesnoza\\IpValidator\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
